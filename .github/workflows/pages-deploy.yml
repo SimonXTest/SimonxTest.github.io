@@ -31,5 +31,5 @@ jobs:
       - name: Deploy
         run: bash tools/deploy.sh
         
-      - name: Installing dependencies
-        run: BUNDLE_GEMFILE="Gemfile" bundle install
+      # - name: Installing dependencies
+        # run: BUNDLE_GEMFILE="Gemfile" bundle install
