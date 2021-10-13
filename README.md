@@ -1,6 +1,7 @@
 # SimonXTea.github.io
 
-[SimonXTea.github.io](https://SimonXTea.github.io)
+https://SimonXTea.github.io
+or https://SimonXTea.github.io-broken
 
 # Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
