@@ -30,6 +30,3 @@ jobs:
 
       - name: Deploy
         run: bash tools/deploy.sh
-      
-      - name: Installing dependencies
-        run: bundle install
