@@ -1,3 +1,6 @@
+# Hi KargWare
+# This repo uses the Chirpy theme. The repo that's working uses the default theme.
+
 name: 'Automatic build'
 on:
   push:
