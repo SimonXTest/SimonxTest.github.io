@@ -1,6 +1,8 @@
 # SimonXTest.github.io
 
-To be honest, I am pissed at having this issue that seems unsolvable, during something that should be as simple as setting up and installing something. This fork is a permalink so I can share this with people without any issues. I had to create a new account to do this.
+To be honest, I am pissed at having this issue that seems unsolvable, during something that should be as simple as setting up and installing something. This fork is a permalink so I can share this with people without any issues. I had to create a new account to do this. 
+
+I don't think this issue is worth putting on hold other things I want to do, or working on my site.
 
 https://SimonXTest.github.io
 or https://SimonXTea.github.io
