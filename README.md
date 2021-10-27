@@ -1,12 +1,10 @@
 # SimonXTest.github.io
 
-To be honest, I am pissed at having this issue that seems unsolvable, during something that should be as simple as setting up and installing something. This fork is a permalink so I can share this with people without any issues. I had to create a new account to do this. 
+I don't like how a lot of people had been able to do this, but I am not able to. I thought this was supposed to be easy. This fork is a permalink so I can share this with people without any issues. I had to create a new account to do this. 
 
 I don't think this issue is worth putting on hold other things I want to do, or working on my site.
 
 https://SimonXTest.github.io
-or https://SimonXTea.github.io
-or https://SimonXTea.github.io-broken
 
 # Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
